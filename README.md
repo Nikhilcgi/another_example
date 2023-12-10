@@ -1,3 +1,3 @@
 # another_example
-Added comments here
+Remove comments here
 another example repository to practice
